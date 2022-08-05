@@ -1,0 +1,34 @@
+body {
+    background-color: #f5f6f5;
+    font-family: 'Oswal', sans-serif;
+    overflow: hidden;     
+}
+
+.index {
+    width: 100%;
+    height: 100%;
+}
+
+.masthead {
+    color: white;
+    min-height: 30rem;
+    width: 100%;
+    height: 100%;
+    padding-top: 8rem;
+    position: absolute;
+    background-image: url('/img/background.jpg');
+    background-size: cover;   
+}
+
+.masthead h1 {
+    font-size: 3rem;
+    margin: 4;
+    padding: 0;
+    position: static;
+}
+
+.container_main {
+    position:absolute;
+    left: 40%;
+    top: 10%;
+}
