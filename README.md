@@ -1,6 +1,6 @@
 # Descripción
 Aplicación que almacena nuestros links favoritos.
-Constrruida con:
+Construida con:
 - Node.js
 - Express
 - Motor de plantillas .hbs
